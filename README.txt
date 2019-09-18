@@ -1,4 +1,5 @@
---------------------------------- FIT-5147 Visualization Project --------------------------------- 
+---------------------------------- TRENDS IN MOVIE INDUSTRY ----------------------------------
+-------------------------------- (Data Visualization Project) --------------------------------- 
 
 Browser Requirements:
 	Mozilla Firefox (Version 66.0 and later).
