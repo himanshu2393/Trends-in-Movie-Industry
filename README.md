@@ -1,5 +1,8 @@
-##  <center> ----- TRENDS IN MOVIE INDUSTRY ---- </center>
-## <center> ---- (Data Visualization Project) ----- </center>
+<div align="center">
+
+# TRENDS IN MOVIE INDUSTRY
+# (Data Visualization Project)
+</div>
 
 Browser Requirements:
 --------------------- 
