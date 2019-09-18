@@ -3,7 +3,8 @@
 # TRENDS IN MOVIE INDUSTRY
 # (Data Visualization Project)
 
-<img src="img/movie_cut.png" width="400px"</img> 
+![Movie Trends](img/movie_cut.png?raw=true?width=400px "Movie Trends")
+
 
 </div>
 
