@@ -3,6 +3,7 @@
 
 Browser Requirements:
 	Mozilla Firefox (Version 66.0 and later).
+	*Do not open in Chrome (as some visualisations might not work as expected)*
 
 How to Run:
 	Just run generic.html (it is the home page)
