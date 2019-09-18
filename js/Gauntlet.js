@@ -32,7 +32,7 @@ function kill() {
     $('#b'+i).fadeOut("slow",0);
    }
    setTimeout(function() {
-            window.location.replace("./generic.html");
+            window.location.replace("./index.html");
    },2000)
    
      
