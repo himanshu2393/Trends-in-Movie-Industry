@@ -11,3 +11,6 @@ Usage Instructions:
 	On every page there is navigation panel except movie_creator.html
 	& movie_viewer.html. There you can find a gauntlet just click on 
         it to go back to home page
+	
+	
+PREVIEW THE PROJECT AT:  https://himanshu2393.github.io/Trends-in-Movie-Industry/
